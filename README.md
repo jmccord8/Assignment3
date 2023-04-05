@@ -16,7 +16,7 @@
 
 /api/v1/mealorders/ - *Shows all the meal orders*
 
-#Installation
+**Installation**
 1. Clone the repository
 2. Ensure you have Java and Spring installed
 3. Build and run the project using ./gradlew bootRun
