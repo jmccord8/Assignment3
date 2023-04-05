@@ -1,4 +1,4 @@
-#This API is designed to track meals, orders, and help requests for seniors. The following endpoints are available:
+**This API is designed to track meals, orders, and help requests for seniors. The following endpoints are available:**
 
 /api/v1/meal/ - Returns all meals
 /api/v1/meal/breakfast/ - Returns all breakfasts
